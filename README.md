@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Currently pursuing B.Tech in Computer Science & Engineering.
-- 💼 Working as a Data Science and Analytics Intern.
+- 💼 Working as a Data Analytics Intern.
 - 🔭 Currently working on **FleetSense – Demand Forecasting & Operations Analytics**.
 - 🌱 Learning Python, Pandas, Advanced SQL, Power BI, Data Visualization, Machine Learning and Microsoft PL-300.
 - 👯 Interested in collaborating on Data Science, Data Analytics, Machine Learning and AI projects.
