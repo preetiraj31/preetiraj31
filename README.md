@@ -1,6 +1,6 @@
 # Hi 👋, I'm Preeti Raj
 
-### B.Tech CSE Student | Data Analytics Intern | Python, SQL, Excel & Power BI | Exploring Data Science, Machine Learning & AI
+### B.Tech CSE Student | Data Science and  Analytics Intern | Python, SQL, Excel & Power BI | Exploring Data Science, Machine Learning & AI
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=preetiraj31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Currently pursuing B.Tech in Computer Science & Engineering.
-- 💼 Working as a Data Analytics Intern.
+- 💼 Working as a Data Science and Analytics Intern.
 - 🔭 Currently working on **FleetSense – Demand Forecasting & Operations Analytics**.
 - 🌱 Learning Python, Pandas, Advanced SQL, Power BI, Data Visualization, Machine Learning and Microsoft PL-300.
 - 👯 Interested in collaborating on Data Science, Data Analytics, Machine Learning and AI projects.
